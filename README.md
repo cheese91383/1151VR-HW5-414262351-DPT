@@ -54,7 +54,6 @@ Github : <https://github.com/cheese91383/1151VR-HW5-414262351-DPT>
 
 - 攝影機放在訓練家側面，寶可夢放在訓練家右側，丟球時從畫面左邊飛到右邊。
 
-【請在這裡貼上截圖 7:Scene 視窗的場景與 Hierarchy】
 
 ## 3. 處理訓練家手上的球
 
@@ -86,7 +85,7 @@ Github : <https://github.com/cheese91383/1151VR-HW5-414262351-DPT>
 
 - 球離手的時間用 Release Delay（0.35 秒）對齊手往前甩的瞬間：時間到時，手上的球縮成 0，同一個位置產生一顆會飛出去的精靈球。
 
-【請在這裡貼上截圖：Animation 視窗與 Throw 的時間軸】
+
 
 ## 5. 腳本
 
