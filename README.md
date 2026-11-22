@@ -2,7 +2,6 @@
 
 YouTube : <https://youtu.be/xEjvCoGNLBY>
 
-Github : <https://github.com/cheese91383/1151VR-HW5-414262351-DPT>
 
 ![image1](image/image1.png)
 
